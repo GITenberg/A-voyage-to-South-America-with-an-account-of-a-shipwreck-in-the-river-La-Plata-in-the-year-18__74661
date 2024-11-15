@@ -1,11 +1,16 @@
 _repo: A-voyage-to-South-America-with-an-account-of-a-shipwreck-in-the-river-La-Plata-in-the-year-18__74661
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74661-h/images/cover.jpg
 creator:
   author:
     agent_name: Fracker, George
     gutenberg_agent_id: '57591'
     url: http://www.gutenberg.org/2009/agents/57591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74661#A-voyage-to-South-America-with-an-account-of-a-shipwreck-in-the-river-La-Plata-in-the-year-18_
 gutenberg_issued: '2024-10-30'
 gutenberg_type: Text
 identifiers:
